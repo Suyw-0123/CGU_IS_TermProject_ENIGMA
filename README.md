@@ -9,6 +9,9 @@
 - enigma_gpt_RotorAndPlugboard_v6.2.py：  
   進階版，支援轉子與 Plugboard（插線板）設定，暴力破解時會嘗試多組 Plugboard 配對，總共可能性約2000000種，並可將候選結果交給 GPT 進行語意分析。
 
+- enigmaRotorOnlyDEMO.png :
+  為enigma_gpt_rotor_only_v3.2.py 運行範例
+
 ## 安裝需求
 
 請先安裝以下 Python 套件：
